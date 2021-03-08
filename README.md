@@ -4,7 +4,7 @@
 - <a href="https://www.eclipse.org/downloads/" target="_blank">Eclipse</a>
 - Eclipse Plugins
   - <a href="http://download.eclipse.org/technology/m2e/releases/1.4" target="_blank">Maven</a> 
-  - <a href="http://cucumber.github.io/cucumber-eclipse/update-site/" target="_blank">Cucumber</a>
+  - <a href="https://cucumber.io/" target="_blank">Cucumber</a>
 - <a href="https://github.com/trivago/cluecumber-report-plugin" target="_blank">Clue Cucumber Report</a>
   
 # Iniciando com o cucumber
