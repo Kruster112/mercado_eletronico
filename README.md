@@ -23,3 +23,4 @@ Gerando o Relatório
 
 - Basta realizar o click duplo no arquivo "Generate Report", ele irá executar o seguinte comando: mvn cluecumber-report:reporting e em seguida o próprio bat abrirá o HTML Report gerado na pasta do seguinte diretório "target\generated-report"
 
+![image](https://user-images.githubusercontent.com/17464795/110352238-7543a200-8014-11eb-94e1-bcc2bd2abb6d.png)
