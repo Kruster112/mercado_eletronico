@@ -16,7 +16,11 @@
 # Importando o projeto no Eclipse
 - Clone o repositorio “https://github.com/Kruster112/mercado_eletronico.git” ou realize o download do arquivo zip.
 - Importe o projeto pelo eclipse.
-- Execute pela classe TestRunner.
+
+Executando o Script
+--------------
+- Execute pela classe TestRunne via IDE.
+- Caso queira executar via prompt, utilizar o comando "mvn test"
 
 Gerando o Relatório
 --------------
