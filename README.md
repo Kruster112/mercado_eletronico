@@ -9,7 +9,7 @@
   
 # Iniciando com o cucumber
 - Instalar o Java e setar o path.
-- Instalar o Maven and setar o path.
+- Instalar o Maven e setar o path.
 - Instalar o Eclipse.
 - E adicionar Eclipse o plugin.
 
